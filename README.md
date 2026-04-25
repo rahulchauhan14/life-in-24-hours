@@ -421,12 +421,9 @@ After logging activities in the app:
 ## 👨‍💻 Developer
 
 **Rahul**
-- GitHub: [Your GitHub]
-- Email: rahul@gmail.com
+- GitHub:github.com/rahulchauhan14
+- Email: rahul.kumarchauhan148@gmail.com
 
-## 📄 License
-
-MIT License - Feel free to use this project for your hackathon or learning!
 
 ## 🙏 Acknowledgments
 
